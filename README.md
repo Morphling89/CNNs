@@ -5,3 +5,4 @@ The project is composed of two parts:
    Design and train a CNN to classify numbers from the MNIST dataset.
    
    
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
