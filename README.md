@@ -4,5 +4,3 @@ The project is composed of two parts:
    The code for forward and backpropagation through a network, and implement the necessary functions for training.
    Design and train a CNN to classify numbers from the MNIST dataset.
    
-   
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
